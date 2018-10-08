@@ -77,6 +77,7 @@
 
 ### References
 [1] Steven J. Gortler, "Foundations of 3D Computer Graphics," The MIT Press, 2012
+
 [2] K. Matsuda, R. Lea, "WebGL Programming Guide", Addison-Wesley Professional, 2013
 
 Authors:
