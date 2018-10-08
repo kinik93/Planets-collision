@@ -1,5 +1,5 @@
 # Planets-collision
-An online version of the site is reachable <a href="1092.github.io/Planets-collision">here</a>.
+An online version of the site is reachable <a href="https://tom1092.github.io/Planets-collision/">here</a>.
 
 ## Project goals
 
